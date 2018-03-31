@@ -1,2 +1,2 @@
 # montecarlo_tutoliars
-Installation in
+Installation instructions for pythia8, Sherpa and Madgraph
