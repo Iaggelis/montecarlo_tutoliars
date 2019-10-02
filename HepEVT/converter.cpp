@@ -129,7 +129,7 @@ int main(int argc, char *argv[])
 
         n_particles = particle_counter;
         leptonsTree->Fill();
-
+        n_particles = 0;
         par_ids.clear();
         par_px.clear();
         par_py.clear();
